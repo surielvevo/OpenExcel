@@ -1,0 +1,17 @@
+export const D = {
+  bg:   '#F2F2F7',
+  surf: '#FFFFFF',
+  brd:  '#D1D1D6',
+  brd2: '#E5E5EA',
+  ink:  '#09090B',
+  ink2: '#27272A',
+  ink3: '#52525B',
+  ink4: '#A1A1AA',
+  azul: '#2563EB',
+  azulS:'#EFF6FF',
+  sh:   '0 1px 3px rgba(0,0,0,0.07),0 1px 2px rgba(0,0,0,0.04)',
+  shM:  '0 4px 16px rgba(0,0,0,0.09)',
+  r:    '12px',
+  rS:   '8px',
+  f:    "'Inter','Segoe UI',system-ui,sans-serif",
+};
